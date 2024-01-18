@@ -17,3 +17,9 @@ Mastering SQL and Python has become essential for individuals delving into advan
 
 Precisely, this guide will walk you through each step to create a database encompassing the specified table along with its associated relationships.
 
+If you’re not running Python 3, check out this link to get started.
+
+```python 
+https://www.python.org/downloads/
+```
+
